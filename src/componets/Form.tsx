@@ -93,6 +93,7 @@ function Form() {
           <button type='submit'>Submit</button>
         </div>
 
+        {/* We need to change the location fot his linting  */}
         <RatingList ratingList={ratingList} />
       </form>
     </>
