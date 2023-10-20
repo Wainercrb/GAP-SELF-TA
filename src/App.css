@@ -1,0 +1,17 @@
+.Score {
+    padding: 5em;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.footer {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
